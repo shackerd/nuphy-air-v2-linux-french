@@ -2,7 +2,7 @@
 
 I have made this repository because of my keyboard lack of latin letters diacritics.
 
-This repository is intented to work with [Nuphy Air 75 v2](https://nuphy.com/products/air75-v2?_pos=1&_sid=5d5e70d9b&_ss=r)
+This repository is intended to work with [Nuphy Air 75 v2](https://nuphy.com/products/air75-v2?_pos=1&_sid=5d5e70d9b&_ss=r)
 but macros can work with any device supporting usevia.
 
 ![keyboard](./assets/mapped.png)
